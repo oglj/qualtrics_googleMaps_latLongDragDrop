@@ -16,7 +16,7 @@
 
 // Enter your Google Map API key in this variable:
 
-googleMapAPIKey = "AIzaSyBAEus4_qur-fkzm2A0PQ2mYoIK7Qra26c";
+googleMapAPIKey = "Get Your Own";
 
 Qualtrics.SurveyEngine.addOnload(function() {
     // --- User Variables, set these: ---
